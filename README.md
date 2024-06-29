@@ -30,7 +30,7 @@ The MCTSr system aims to improve the accuracy and quality of question answering 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/mctsr.git
+   git clone https://github.com/MortalJudgment/Monte-Carlo-Tree-Search-Self-Refined.git
    cd montecarlo
    ```
 2. **Install dependencies:**
